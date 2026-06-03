@@ -1,4 +1,4 @@
-# 
+# احترافي low-frequency trading bot سكريبتات لـ Mac OS | توربو low-frequency trading bot سكريبتات لـ PC Windows. مع خوارزميات السكالبينج و تنفيذ أوامر محدودة — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
